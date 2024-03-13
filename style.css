@@ -1,0 +1,287 @@
+.container{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+
+    
+
+}
+
+.container .black{
+    background-color: black;
+   
+    height: 485px;
+    width: 480px;
+}
+.container .black .line{
+    margin-top: 200px;
+    background-color: rgb(47,49,70);
+    width: 480px;
+    height: 485px;
+    
+    
+   
+}
+
+.fristline{
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+}
+
+.c{
+    text-align: center;
+    
+    color: aliceblue;
+    background-color: rgb(123,126,159);
+    font-size: 50px;
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    font-family: "Outfit", sans-serif;
+}
+
+
+.item{
+
+   
+    text-align: center;
+    
+    color: aliceblue;
+    background-color: rgb(123,126,159);
+    font-size: 50px;
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    font-family: "Outfit", sans-serif;
+}
+.perchent{
+    text-align: center;
+    
+    color: aliceblue;
+    background-color: rgb(123,126,159);
+    font-size: 50px;
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    font-family: "Outfit", sans-serif;
+}
+.secondline{
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+    
+}
+
+.seven{
+    text-align: center;
+    
+    color: aliceblue;
+    background-color: rgb(34,34,50);
+    font-size: 50px;
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    font-family: "Outfit", sans-serif;
+}
+.eight{
+    text-align: center;
+    
+    color: aliceblue;
+    background-color: rgb(34,34,50);
+    font-size: 50px;
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    font-family: "Outfit", sans-serif;
+}
+.nine{
+    text-align: center;
+    
+    color: aliceblue;
+    background-color: rgb(34,34,50);
+    font-size: 50px;
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    font-family: "Outfit", sans-serif;
+}
+.plus{
+    text-align: center;
+    
+    color: aliceblue;
+    background-color: rgb(123,126,159);
+    font-size: 50px;
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    font-family: "Outfit", sans-serif;
+}
+.thirdline{
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+    
+}
+.four{
+    text-align: center;
+    
+    color: aliceblue;
+    background-color: rgb(34,34,50);
+    font-size: 50px;
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    font-family: "Outfit", sans-serif;
+}
+.five{
+    
+    text-align: center;
+    
+    color: aliceblue;
+    background-color: rgb(34,34,50);
+    font-size: 50px;
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    font-family: "Outfit", sans-serif;
+
+}
+.six{
+    
+    text-align: center;
+    
+    color: aliceblue;
+    background-color: rgb(34,34,50);
+    font-size: 50px;
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    font-family: "Outfit", sans-serif;
+}
+.mynes{
+    
+    text-align: center;
+        
+    color: aliceblue;
+    background-color: rgb(123,126,159);
+    font-size: 50px;
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    font-family: "Outfit", sans-serif;
+}
+.fourline{
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+}
+.one{
+    text-align: center;
+    
+    color: aliceblue;
+    background-color: rgb(34,34,50);
+    font-size: 50px;
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    font-family: "Outfit", sans-serif;
+
+}
+.two{
+    text-align: center;
+    
+    color: aliceblue;
+    background-color: rgb(34,34,50);
+    font-size: 50px;
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    font-family: "Outfit", sans-serif;
+}
+.three{
+    text-align: center;
+        
+    color: aliceblue;
+    background-color: rgb(123,126,159);
+    font-size: 50px;
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    font-family: "Outfit", sans-serif;
+}
+.star{
+    text-align: center;
+        
+    color: aliceblue;
+    background-color: rgb(123,126,159);
+    font-size: 50px;
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    font-family: "Outfit", sans-serif;
+}
+.fiveline{
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+}
+.dot{
+    text-align: center;
+    
+    color: aliceblue;
+    background-color: rgb(34,34,50);
+    font-size: 50px;
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    font-family: "Outfit", sans-serif;
+}
+.zero{
+    text-align: center;
+    
+    color: aliceblue;
+    background-color: rgb(34,34,50);
+    font-size: 50px;
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    font-family: "Outfit", sans-serif;
+}
+.equal{
+    text-align: center;
+        
+    color: aliceblue;
+    background-color: rgb(241,181,29);
+    font-size: 50px;
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    font-family: "Outfit", sans-serif;
+}
+.slas{
+    text-align: center;
+        
+    color: aliceblue;
+    background-color: rgb(123,126,159);
+    font-size: 50px;
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    font-family: "Outfit", sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
